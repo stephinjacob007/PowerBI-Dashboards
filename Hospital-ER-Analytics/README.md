@@ -118,6 +118,9 @@ Monitor Emergency Room performance month by month.
 
 This dashboard helps identify monthly operational trends and performance.
 
+<img width="1190" height="724" alt="image" src="https://github.com/user-attachments/assets/aa4660e0-660e-4203-a1d3-ea9fc20cc275" />
+
+
 ---
 
 # Dashboard 2 — Consolidated View
@@ -137,6 +140,9 @@ Users can interactively filter dates to analyze:
 - Time-based trends
 
 This dashboard provides executive-level insights into overall hospital performance.
+
+
+<img width="1190" height="731" alt="image" src="https://github.com/user-attachments/assets/d14d21c4-ac75-4832-a213-5e444a830a6c" />
 
 ---
 
@@ -159,6 +165,9 @@ The dashboard includes:
 - Admission Status
 
 Useful for operational reviews and troubleshooting.
+
+
+<img width="1188" height="726" alt="image" src="https://github.com/user-attachments/assets/a19f63a1-c356-4799-ad9f-de8fe1db276f" />
 
 ---
 
