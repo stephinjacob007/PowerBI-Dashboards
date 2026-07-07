@@ -178,12 +178,16 @@ Useful for operational reviews and troubleshooting.
 - Total ER patients per day
 - Daily trend visualization using sparklines
 
+<img width="231" height="132" alt="image" src="https://github.com/user-attachments/assets/e89075c7-1b82-4f78-8f13-dda4d1cdbfa0" />
+
 ---
 
 ## Average Wait Time
 
 - Average waiting time before consultation
 - Daily trend analysis
+
+<img width="235" height="131" alt="image" src="https://github.com/user-attachments/assets/a5649b97-60c4-47e7-8b45-8c8aaa7ab6c0" />
 
 ---
 
@@ -192,11 +196,15 @@ Useful for operational reviews and troubleshooting.
 - Average daily satisfaction score
 - Trend analysis to identify service quality fluctuations
 
+<img width="228" height="136" alt="image" src="https://github.com/user-attachments/assets/7c301cc2-0487-40a2-aff4-671a0bf97cd1" />
+
 ---
 
 ## Department Referrals
 
 Daily referral analysis across departments to identify resource requirements.
+
+<img width="230" height="131" alt="image" src="https://github.com/user-attachments/assets/702ffd31-a0ec-4627-85b7-739f2f80ab8a" />
 
 ---
 
