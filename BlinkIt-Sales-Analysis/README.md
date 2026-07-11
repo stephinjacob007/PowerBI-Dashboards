@@ -13,7 +13,7 @@ The objective of this project is to demonstrate how Power BI can transform raw r
 > *(Add a screenshot of your Power BI dashboard here)*
 
 ```
-Images/dashboard.png
+<img width="1260" height="700" alt="dashboard" src="https://github.com/user-attachments/assets/f20f2992-3858-423d-bc99-9ea70e415a1f" />
 ```
 
 ---
@@ -97,7 +97,7 @@ These slicers allow users to drill down into specific business segments.
 
 **Visualization:** Donut Chart
 
-<img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/4ccaa32c-fc5b-4183-9890-308d7749dded" />
+<img width="180" height="150" alt="image" src="https://github.com/user-attachments/assets/4ccaa32c-fc5b-4183-9890-308d7749dded" />
 
 
 Shows the contribution of:
