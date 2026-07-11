@@ -10,11 +10,8 @@ The objective of this project is to demonstrate how Power BI can transform raw r
 
 ## 📊 Dashboard Preview
 
-> *(Add a screenshot of your Power BI dashboard here)*
 
-```
 <img width="1260" height="700" alt="dashboard" src="https://github.com/user-attachments/assets/f20f2992-3858-423d-bc99-9ea70e415a1f" />
-```
 
 ---
 
